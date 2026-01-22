@@ -1,0 +1,1 @@
+print("Today is the day I lay the foundation for my future learning")
