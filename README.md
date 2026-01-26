@@ -22,9 +22,9 @@
 <td> Done ✅</td>
 </tr>
 <tr>
-<td> Day 4 </td>
-  <td> </td>
-<td> Pending ⌛ </td>
+<td> Day 4 ✅ </td>
+  <td> Strings </td>
+<td> Done ✅ </td>
 </tr>
 <tr>
 <td> Day 5 </td>
