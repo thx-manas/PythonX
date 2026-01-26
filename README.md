@@ -17,9 +17,9 @@
 <td> Done ✅</td>
 </tr>
 <tr>
-<td> Day 3 </td>
-<td> </td>
-<td> Pending ⌛</td>
+<td> Day 3 ✅ </td>
+<td> Operators </td>
+<td> Done ✅</td>
 </tr>
 <tr>
 <td> Day 4 </td>
