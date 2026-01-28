@@ -32,9 +32,9 @@
 <td> Done ✅ </td>
 </tr>
 <tr>
-<td> Day 6 </td>
-  <td> </td>
-<td> Pending ⌛</td>
+<td> Day 6 ✅ </td>
+  <td> Tuples </td>
+<td> Done ✅ </td>
 </tr>
 <tr>
 <td> Day 7 </td>
