@@ -47,9 +47,9 @@
 <td> Done ✅ </td>
 </tr>
 <tr>
-<td> Day 9 </td>
-  <td>  </td>
-<td> Pending ⌛</td>
+<td> Day 9 ✅ </td>
+  <td> Conditionals </td>
+<td> Done ✅ </td>
 </tr>
 <tr>
 <td> Day 10 </td>
