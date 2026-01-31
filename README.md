@@ -42,9 +42,9 @@
 <td>  Done ✅  </td>
 </tr>
 <tr>
-<td> Day 8 </td>
-  <td>  </td>
-<td> Pending ⌛</td>
+<td> Day 8 ✅ </td>
+  <td>  Dictionaries </td>
+<td> Done ✅ </td>
 </tr>
 <tr>
 <td> Day 9 </td>
