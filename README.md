@@ -52,9 +52,9 @@
 <td> Done ✅ </td>
 </tr>
 <tr>
-<td> Day 10 </td>
-  <td>  </td>
-<td> Pending ⌛</td>
+<td> Day 10 ✅ </td>
+  <td> Loops </td>
+<td> Done ✅ </td>
 </tr>
 <tr>
 <td> Day 11 </td>
