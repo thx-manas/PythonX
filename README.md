@@ -57,9 +57,9 @@
 <td> Done ✅ </td>
 </tr>
 <tr>
-<td> Day 11 </td>
-  <td>  </td>
-<td> Pending ⌛</td>
+<td> Day 11 ✅ </td>
+  <td> Functions </td>
+<td> Done ✅ </td>
 </tr>
 <tr>
 <td> Day 12 </td>
