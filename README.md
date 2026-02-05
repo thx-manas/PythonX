@@ -67,9 +67,9 @@
 <td> Done ✅ </td>
 </tr>
 <tr>
-<td> Day 13 </td>
-<td>  </td>
-<td> Pending ⌛</td>
+<td> Day 13 ✅ </td>
+<td> List Comprehension </td>
+<td> Done ✅ </td>
 </tr>
 <tr>
 <td> Day 14 </td>
