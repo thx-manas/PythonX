@@ -72,9 +72,9 @@
 <td> Done ✅ </td>
 </tr>
 <tr>
-<td> Day 14 </td>
-  <td>  </td>
-<td> Pending ⌛</td>
+<td> Day 14 ✅ </td>
+  <td> Higher Order Functions </td>
+<td> Done ✅ </td>
 </tr>
 <tr>
 <td> Day 15 </td>
