@@ -77,9 +77,9 @@
 <td> Done ✅ </td>
 </tr>
 <tr>
-<td> Day 15 </td>
-  <td>  </td>
-<td> Pending ⌛</td>
+<td> Day 15 ✅ </td>
+  <td> Python Type errors </td>
+<td> Done ✅ </td>
 </tr>
 <tr>
 <td> Day 16 </td>
