@@ -82,9 +82,9 @@
 <td> Done ✅ </td>
 </tr>
 <tr>
-<td> Day 16 </td>
-  <td>  </td>
-<td> Pending ⌛</td>
+<td> Day 16 ✅ </td>
+  <td> Python Datetime </td>
+<td> Done ✅</td>
 </tr>
 <tr>
 <td> Day 17</td>
