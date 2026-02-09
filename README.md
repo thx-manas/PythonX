@@ -87,9 +87,9 @@
 <td> Done ✅</td>
 </tr>
 <tr>
-<td> Day 17</td>
-  <td>  </td>
-<td> Pending ⌛</td>
+<td> Day 17 ✅ </td>
+  <td> Exception Handling </td>
+<td> Done ✅ </td>
 </tr>
 <tr>
 <td> Day 18</td>
