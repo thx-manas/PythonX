@@ -92,9 +92,9 @@
 <td> Done ✅ </td>
 </tr>
 <tr>
-<td> Day 18</td>
-  <td>  </td>
-<td> Pending ⌛</td>
+<td> Day 18 ✅ </td>
+  <td> Regular Expressions </td>
+<td> Done ✅ </td>
 </tr>
 <tr>
 <td> Day 19</td>
