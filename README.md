@@ -102,9 +102,9 @@
 <td> Done ✅ </td>
 </tr>
 <tr>
-<td> Day 20</td>
-  <td>  </td>
-<td> Pending ⌛</td>
+<td> Day 20 ✅ </td>
+  <td> PIPs & APIs </td>
+<td> Done ✅ </td>
 </tr>
 <tr>
 <td> Day 21</td>
