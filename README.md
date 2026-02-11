@@ -97,9 +97,9 @@
 <td> Done ✅ </td>
 </tr>
 <tr>
-<td> Day 19</td>
-  <td>  </td>
-<td> Pending ⌛</td>
+<td> Day 19 ✅ </td>
+  <td> File Handling </td>
+<td> Done ✅ </td>
 </tr>
 <tr>
 <td> Day 20</td>
