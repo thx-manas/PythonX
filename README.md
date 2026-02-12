@@ -107,9 +107,9 @@
 <td> Done ✅ </td>
 </tr>
 <tr>
-<td> Day 21</td>
-  <td>  </td>
-<td> Pending ⌛</td>
+<td> Day 21 ✅ </td>
+  <td> Classes and Objects </td>
+<td> Done ✅ </td>
 </tr>
 <tr>
 <td> Day 22</td>
