@@ -117,9 +117,9 @@
 <td> Done ✅ </td>
 </tr>
 <tr>
-<td> Day 23</td>
-  <td>  </td>
-<td> Pending ⌛</td>
+<td> Day 23 ✅ </td>
+  <td> Virtual Environments </td>
+<td> Done ✅ </td>
 </tr>
 <tr>
 <td> Day 24 </td>
