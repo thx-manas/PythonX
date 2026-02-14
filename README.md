@@ -112,9 +112,9 @@
 <td> Done ✅ </td>
 </tr>
 <tr>
-<td> Day 22</td>
-  <td>  </td>
-<td> Pending ⌛</td>
+<td> Day 22 ✅ </td>
+  <td> Web Scraping </td>
+<td> Done ✅ </td>
 </tr>
 <tr>
 <td> Day 23</td>
