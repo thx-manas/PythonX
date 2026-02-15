@@ -122,9 +122,9 @@
 <td> Done ✅ </td>
 </tr>
 <tr>
-<td> Day 24 </td>
-  <td>  </td>
-<td> Pending ⌛</td>
+<td> Day 24 ✅ </td>
+  <td> Data Distribution </td>
+<td> Done ✅ </td>
 </tr>
 <tr>
 <td> Day 25</td>
