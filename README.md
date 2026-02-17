@@ -127,9 +127,9 @@
 <td> Done ✅ </td>
 </tr>
 <tr>
-<td> Day 25</td>
-  <td>  </td>
-<td> Pending ⌛</td>
+<td> Day 25 ✅ </td>
+  <td> Pandas </td>
+<td> Done ✅ </td>
 </tr>
 <tr>
 <td> Day 26 </td>
