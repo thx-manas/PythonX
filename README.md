@@ -137,9 +137,9 @@
 <td> Done ✅ </td>
 </tr>
 <tr>
-<td> Day 27</td>
-  <td>  </td>
-<td> Pending ⌛</td>
+<td> Day 27 ✅ </td>
+  <td> Flask Routing </td>
+<td> Done ✅ </td>
 </tr>
 <tr>
 <td> Day 28</td>
