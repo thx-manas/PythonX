@@ -142,9 +142,9 @@
 <td> Done ✅ </td>
 </tr>
 <tr>
-<td> Day 28</td>
-  <td>  </td>
-<td> Pending ⌛</td>
+<td> Day 28 ✅ </td>
+  <td> API Endpoints </td>
+<td> Done ✅ </td>
 </tr>
 <tr>
 <td> Day 29</td>
