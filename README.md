@@ -147,14 +147,14 @@
 <td> Done ✅ </td>
 </tr>
 <tr>
-<td> Day 29</td>
-  <td>  </td>
-<td> Pending ⌛</td>
+<td> Day 29 ✅ </td>
+  <td> System Integration </td>
+<td> Done ✅</td>
 </tr>
 <tr>
-<td> Day 30</td>
-  <td>  </td>
-<td> Pending ⌛</td>
+<td> Day 30 ✅ </td>
+  <td> Grand Finale </td>
+<td> Done ✅ </td>
 </tr>
 </table>
 </p>
